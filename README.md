@@ -23,14 +23,13 @@ Scores order candidates; they are **not** probabilities of being a planet. Label
 
 ## Repository contents
 
-- `notebooks/ExoHunter_clean.ipynb`: the whole project, top to bottom
-- `docs/ExoHunter_Report.pdf`: final report
+- `ExoHunter.ipynb`: the whole project
+- `ExoHunter_Report.pdf`: final report
 
 ## How to run
 
 1. Open the notebook in Google Colab (File > Open notebook > GitHub tab, or upload it).
 2. Run Section 0 first, then the sections in order. After a disconnect, rerun Section 0 and continue from where you were.
-3. Slow sections (light-curve vetting and the pilot) save after every star and stop after 25 minutes; press play again to continue.
 
 ## Next steps
 
